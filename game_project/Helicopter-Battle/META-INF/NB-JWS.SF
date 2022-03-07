@@ -1,0 +1,118 @@
+Signature-Version: 1.0
+SHA-256-Digest-Manifest-Main-Attributes: IVf+msgT6Aq6cIrQxLtxUZK+jt/ci
+ ZlsNPWYJiQnEfI=
+SHA-256-Digest-Manifest: SOGBzgyc3uI7NaUz1glV882kIkoAfn73oQMWnCVEm48=
+Created-By: 1.7.0_03 (Oracle Corporation)
+
+Name: helicopterbattle/Game$1.class
+SHA-256-Digest: trDYf5SXAi0P6deqeLHJXAIweG0BIUC/rBL6adAGuSY=
+
+Name: helicopterbattle/resources/images/cloud_layer_1.png
+SHA-256-Digest: XSno7k0cCa/U6aThGtWBxzHCTs/qtnAcJ8977uCM+Mc=
+
+Name: helicopterbattle/MovingBackground.class
+SHA-256-Digest: 320Mpi7RM3unX4GR7u6vUQsjUpwcm82j/tRWMZir9qA=
+
+Name: helicopterbattle/resources/images/bullet.png
+SHA-256-Digest: zeu+pGGmT6vLQE/Otwc0cmyqwJAFbnrXr/X8e6E/oQo=
+
+Name: helicopterbattle/resources/images/1_rear_propeller_anim.png
+SHA-256-Digest: jM69IbSPhOv3HQAlSgec5YABch0h8/N3BKlV3MrimRk=
+
+Name: helicopterbattle/Framework$2.class
+SHA-256-Digest: fvV6J1ZRsWtdzf/7pjLmgULxXA8lf1wNYDyjJTJtnGM=
+
+Name: helicopterbattle/resources/images/mountains.png
+SHA-256-Digest: Wz0V5sIEjUqm6UeEJoai5naBWigL/jtumUOH8Q+CgrI=
+
+Name: helicopterbattle/Window.class
+SHA-256-Digest: +5Ozm20zG8JtAPZKsx9GGN2P29NIjko8RIQigtAeDzc=
+
+Name: helicopterbattle/resources/images/mouse_cursor.png
+SHA-256-Digest: znOF1JpFaXCGx5MLPe9sd6Upd1zT8EqXmNgiMWNdrMQ=
+
+Name: helicopterbattle/RocketSmoke.class
+SHA-256-Digest: CrdacEb/QSsq71PUGhP4xL3PYbNY/MpBGl8H13UaYGw=
+
+Name: helicopterbattle/EnemyHelicopter.class
+SHA-256-Digest: hEJO+YZJoTl8n8ReQklqAIip5+jCUSqaiqTpz/gz5M8=
+
+Name: helicopterbattle/Game.class
+SHA-256-Digest: db4w2octT6QsL0AvA7abL/kRNn9+bTGRf5RseHF5apc=
+
+Name: helicopterbattle/resources/images/menu_border.png
+SHA-256-Digest: hb/aj6rSErxaZAopgrztXhIGpInAgeZL8vebe5H0/bc=
+
+Name: helicopterbattle/Window$1.class
+SHA-256-Digest: pYZLzZbe6kzass54dvKgnnjsAdeJM3GNxhjvRwkE5wY=
+
+Name: helicopterbattle/resources/images/1_helicopter_body.png
+SHA-256-Digest: CCAb3dF7O0rFtSgDblxaWFiwYVi2J1K9/mfaXYBXlPk=
+
+Name: helicopterbattle/Rocket.class
+SHA-256-Digest: 5B+YoihYqpLCk48Id/y+rYrxRroi4w+97JTp6o+PSHw=
+
+Name: helicopterbattle/Framework.class
+SHA-256-Digest: rCg5TFEBise4Gsrd5uT4bi7ExZWwSh1pOKG4AmlVhYY=
+
+Name: helicopterbattle/resources/images/cloud_layer_2.png
+SHA-256-Digest: zr73T1z1rVBbpDbf9SRRNT52XlqclFdNDMPFBco3UC4=
+
+Name: helicopterbattle/Animation.class
+SHA-256-Digest: tKzxo8KcvIMC1PuVhgkQkhJWDuHmNR89KE5T9WMryEU=
+
+Name: helicopterbattle/Framework$GameState.class
+SHA-256-Digest: j9Z3hI/4wOjAkTiF86HhHkfBjMcjraBXpoS2JuFS+0Y=
+
+Name: helicopterbattle/Framework$1.class
+SHA-256-Digest: i6DC9tW/jRTtsUSpWZejqVT4T/WQFobZ+WASzAVgz34=
+
+Name: helicopterbattle/resources/images/explosion_anim.png
+SHA-256-Digest: VPkXrXzE3e5p/9zjDmvXGpCeyHmUpkkwRM3OY39DjtE=
+
+Name: helicopterbattle/resources/images/sky_color.jpg
+SHA-256-Digest: eN5HYphMLYffAtEINm3xu4r2pf8ykPb7BmD+m3wM7jg=
+
+Name: helicopterbattle/resources/images/rocket_smoke.png
+SHA-256-Digest: Yw+UcHWXX9TuipYVGoDIgux/a7LaJpf2AvjoRHemND4=
+
+Name: helicopterbattle/Canvas.class
+SHA-256-Digest: PQxnT6Gnau2Bgxt5EIPEH1OF6wx9rfkEdpniK+amF4o=
+
+Name: helicopterbattle/PlayerHelicopter.class
+SHA-256-Digest: j045OSTncf4Wu0IQkwuwQc74r+rHG7LO5cVaHhwZCrA=
+
+Name: helicopterbattle/resources/images/rocket.png
+SHA-256-Digest: FVqp1TYkrSnJoNLowI30aH+IejljN3Ua/ygJFDMZJSo=
+
+Name: helicopterbattle/resources/images/2_helicopter_body.png
+SHA-256-Digest: 3A9l74NRYe+cTQiDVjG8bs5rC+GNC5iP00LqxxMPIck=
+
+Name: helicopterbattle/resources/images/1_rear_propeller_anim_blur.png
+SHA-256-Digest: 2UAHjATQfU1n8+rYbHRx09juR57ctpH5b2r3GKbnIFM=
+
+Name: helicopterbattle/resources/images/helicopter_battle_title.png
+SHA-256-Digest: 0Zc+wyMBTaZaiqPZmLW+oUcW2I5JvMjNKWBfFwhlwZ0=
+
+Name: helicopterbattle/resources/images/2_rear_propeller_anim.png
+SHA-256-Digest: A1Lt0zosbawUtF8upiZgH0aG3eB2v5Nyh4zqubOinpg=
+
+Name: helicopterbattle/resources/images/1_front_propeller_anim.png
+SHA-256-Digest: X9Vy0pGqHZbr3GPKVX+5Sa3SQI3BdaYLqpC9bd+O2ms=
+
+Name: helicopterbattle/resources/images/1_front_propeller_anim_blur.pn
+ g
+SHA-256-Digest: dS8S1wGj8SJwrYKN7ykoZ7uix2Mqe/sB22jEvXRsZ/g=
+
+Name: helicopterbattle/Bullet.class
+SHA-256-Digest: FqzVerfeH9hVazLpuqngS6ysk7sQrVMVYvPTLhN8M6s=
+
+Name: META-INF/INDEX.LIST
+SHA-256-Digest: po+FEQmJQHFYF+SWevRokSgJvg3wRTduy7oNk7Ev87U=
+
+Name: helicopterbattle/resources/images/2_front_propeller_anim.png
+SHA-256-Digest: bx1hjWQ8fEzYgb/5kwX4Xz0PMmE+gHQ4+vlxpg9RhXk=
+
+Name: helicopterbattle/resources/images/ground.png
+SHA-256-Digest: o8J88sX7YmqIrqduggEKMFEsyA3qn/9AJK8luveZKPs=
+
